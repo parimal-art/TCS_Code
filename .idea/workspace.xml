@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1705ab2-6492-4849-8318-5ffab78a7ae6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TCS_Prep.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prev_TCS/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prev_TCS/Q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prev_TCS/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prev_TCS/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prev_TCS/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prev_TCS/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prev_TCS/Q7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prev_TCS/Q8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prev_TCS/Q9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prev_TCS/Q9_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/A10_Median.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/A11_inplaceSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/A1_minArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/A2_2ndminmax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/A4_revArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/A5_arrFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/A6_incdec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/A7_findSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/A8_Blockswapalgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/A9_AvgArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/S1_palindrome.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3AT8g20m8ZdgUeevFzeogELmm6K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.A10_Median.executor": "Run",
+    "Application.A1_minArr.executor": "Run",
+    "Application.A2_2ndminmax.executor": "Run",
+    "Application.A5_arrFrequency.executor": "Run",
+    "Application.A7_findSum.executor": "Run",
+    "Application.A8_Blockswapalgo.executor": "Run",
+    "Application.A9_AvgArr.executor": "Run",
+    "Application.Q1.executor": "Run",
+    "Application.Q10.executor": "Run",
+    "Application.Q2.executor": "Run",
+    "Application.Q3.executor": "Run",
+    "Application.Q4.executor": "Run",
+    "Application.Q5.executor": "Run",
+    "Application.Q6.executor": "Run",
+    "Application.Q7.executor": "Run",
+    "Application.Q8.executor": "Run",
+    "Application.Q9.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Asus/Desktop/ALGOCAMP_DSA/CODE/TCS_Prep/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1705ab2-6492-4849-8318-5ffab78a7ae6" name="Changes" comment="" />
+      <created>1772605308647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772605308647</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
