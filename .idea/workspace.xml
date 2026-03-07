@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1705ab2-6492-4849-8318-5ffab78a7ae6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/A12_unsortedSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/A13_1_repeatingChk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/A13_repeatingChk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/A16_nonrepeatChk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/A17_symmetricPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/A18_maxproductSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/A19_arrsortRank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/A20_arrsortfreq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/A21_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/N1_1Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/N1_2Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/N1_Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/N2_PalindromeRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/N3_Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/N4_PrimeRange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,18 +33,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "parimal-art"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;parimal-art&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/parimal-art/TCS_Code.git",
-    "accountId": "e20c66e1-5efd-41c9-a1e1-424ba0dc69e8"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/parimal-art/TCS_Code.git&quot;,
+    &quot;accountId&quot;: &quot;e20c66e1-5efd-41c9-a1e1-424ba0dc69e8&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -53,12 +60,19 @@
     "Application.A12_unsortedSorting.executor": "Run",
     "Application.A13_repeatingChk.executor": "Run",
     "Application.A16_nonrepeatChk.executor": "Run",
+    "Application.A19_arrsortRank.executor": "Run",
     "Application.A1_minArr.executor": "Run",
+    "Application.A20_arrsortfreq.executor": "Run",
+    "Application.A21_.executor": "Run",
     "Application.A2_2ndminmax.executor": "Run",
     "Application.A5_arrFrequency.executor": "Run",
     "Application.A7_findSum.executor": "Run",
     "Application.A8_Blockswapalgo.executor": "Run",
     "Application.A9_AvgArr.executor": "Run",
+    "Application.N1_Palindrome.executor": "Run",
+    "Application.N2_PalindromeRange.executor": "Run",
+    "Application.N3_Prime.executor": "Run",
+    "Application.N4_PrimeRange.executor": "Run",
     "Application.Q1.executor": "Run",
     "Application.Q10.executor": "Run",
     "Application.Q2.executor": "Run",
