@@ -1,35 +1,41 @@
 package Striver_Sheet;
-import java.util.*;
+import java.util.Scanner;
+import java.util.Arrays;
+import java.util.HashMap;
+
 public class A19_arrsortRank {
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
 
-        String[] input = sc.nextLine().split(" ");
-        int n = input.length;
+        String[] arr = sc.nextLine().split(" ");
+        int n = arr.length;
 
-        int[] arr = new int[n];
+        int[] nums = new int[n];
         int[] temp = new int[n];
 
-        for(int i=0;i<n;i++){
-            arr[i] = Integer.parseInt(input[i]);
-            temp[i] = arr[i];
+        for (int i = 0; i < n; i++) {
+            nums[i] = Integer.parseInt(arr[i]);
+            temp[i] = nums[i];
         }
 
         Arrays.sort(temp);
 
-        HashMap<Integer,Integer> map = new HashMap<>();
+        HashMap<Integer, Integer> map = new HashMap<>();
 
         int rank = 1;
 
-        for(int num : temp){
-            if(!map.containsKey(num)){
-                map.put(num,rank++);
+        for (int i = 0; i < n; i++) {
+            if (!map.containsKey(temp[i])) {
+                map.put(temp[i], rank);
+                rank++;
             }
         }
 
-        for(int num : arr){
-            System.out.print(map.get(num) + " ");
+        for (int i = 0; i < n; i++) {
+            System.out.print(map.get(nums[i]) + " ");
         }
+
+        sc.close();
     }
 }

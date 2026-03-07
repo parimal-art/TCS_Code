@@ -5,18 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1705ab2-6492-4849-8318-5ffab78a7ae6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/A17_symmetricPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/A18_maxproductSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/A19_arrsortRank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/A20_arrsortfreq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/A21_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/N1_1Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/N1_2Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/N1_Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/N2_PalindromeRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/N3_Prime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/N4_PrimeRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver_Sheet/A11_removeDuplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Prev_TCS/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prev_TCS/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Prev_TCS/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prev_TCS/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver_Sheet/A10_Median.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Striver_Sheet/A10_Median.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver_Sheet/A11_inplaceSorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver_Sheet/A12_unsortedSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Striver_Sheet/A12_unsortedSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver_Sheet/A13_1_repeatingChk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Striver_Sheet/A13_1_repeatingChk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver_Sheet/A13_repeatingChk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver_Sheet/A16_nonrepeatChk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Striver_Sheet/A16_nonrepeatChk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver_Sheet/A18_maxproductSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Striver_Sheet/A18_maxproductSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver_Sheet/A19_arrsortRank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Striver_Sheet/A19_arrsortRank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver_Sheet/A1_minArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Striver_Sheet/A1_minArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver_Sheet/A2_2ndminmax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Striver_Sheet/A2_2ndminmax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver_Sheet/A4_revArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Striver_Sheet/A4_revArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver_Sheet/A5_arrFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Striver_Sheet/A5_arrFrequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver_Sheet/A6_incdec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Striver_Sheet/A6_incdec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver_Sheet/A7_findSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Striver_Sheet/A7_findSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver_Sheet/A8_Blockswapalgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Striver_Sheet/A8_Blockswapalgo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver_Sheet/A9_AvgArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Striver_Sheet/A9_AvgArr.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +65,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.A10_Median.executor": "Run",
+    "Application.A11_removeDuplicates.executor": "Run",
     "Application.A12_unsortedSorting.executor": "Run",
     "Application.A13_repeatingChk.executor": "Run",
     "Application.A16_nonrepeatChk.executor": "Run",
@@ -65,6 +74,7 @@
     "Application.A20_arrsortfreq.executor": "Run",
     "Application.A21_.executor": "Run",
     "Application.A2_2ndminmax.executor": "Run",
+    "Application.A4_revArr.executor": "Run",
     "Application.A5_arrFrequency.executor": "Run",
     "Application.A7_findSum.executor": "Run",
     "Application.A8_Blockswapalgo.executor": "Run",
@@ -73,6 +83,7 @@
     "Application.N2_PalindromeRange.executor": "Run",
     "Application.N3_Prime.executor": "Run",
     "Application.N4_PrimeRange.executor": "Run",
+    "Application.N5_Armstrong.executor": "Run",
     "Application.Q1.executor": "Run",
     "Application.Q10.executor": "Run",
     "Application.Q2.executor": "Run",

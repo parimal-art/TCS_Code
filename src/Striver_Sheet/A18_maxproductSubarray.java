@@ -1,6 +1,6 @@
 package Striver_Sheet;
 
-import java.util.*;
+import java.util.Scanner;
 
 public class A18_maxproductSubarray {
 
@@ -8,22 +8,22 @@ public class A18_maxproductSubarray {
 
         Scanner sc = new Scanner(System.in);
 
-        String[] input = sc.nextLine().split(" ");
-        int n = input.length;
+        String[] arr = sc.nextLine().split(" ");
+        int n = arr.length;
 
-        int[] arr = new int[n];
+        int[] nums = new int[n];
 
         for(int i = 0; i < n; i++){
-            arr[i] = Integer.parseInt(input[i]);
+            nums[i] = Integer.parseInt(arr[i]);
         }
 
-        int maxProd = arr[0];
-        int minProd = arr[0];
-        int result = arr[0];
+        int maxProd = nums[0];
+        int minProd = nums[0];
+        int result = nums[0];
 
         for(int i = 1; i < n; i++){
 
-            int num = arr[i];
+            int num = nums[i];
 
             if(num < 0){
                 int temp = maxProd;
@@ -38,5 +38,7 @@ public class A18_maxproductSubarray {
         }
 
         System.out.println(result);
+
+        sc.close();
     }
 }
